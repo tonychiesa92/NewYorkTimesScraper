@@ -22,5 +22,5 @@ NYT Scraper allows readers to get the most recent article from the NYT. It also 
 4. Command to run file: node server.js
 
 - - - - - - - - - - - - - - - - - -
-* Here is a link to the deployed version on Heroku. []()
+* Here is a link to the deployed version on Heroku. [https://scraper-nytime.herokuapp.com/](https://scraper-nytime.herokuapp.com/)
 
